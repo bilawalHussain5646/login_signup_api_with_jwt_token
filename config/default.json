@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://bilawal123:bilawal123@nftbizz.4wtfh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+
+}
